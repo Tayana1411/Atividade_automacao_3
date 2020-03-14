@@ -1,0 +1,13 @@
+pages\ShowProcess.class
+pages\EditProcess.class
+pages\MenuImpacta.class
+steps\CRUDSelenium.class
+runner\RunnerTest.class
+pages\Home.class
+pages\IncludeProcess.class
+pages\DeleteProcess.class
+support\DriverQA.class
+pages\SaveProcess.class
+support\RESTSupport.class
+pages\GridProcess.class
+support\BaseSteps.class
